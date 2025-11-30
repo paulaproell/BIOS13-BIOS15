@@ -1,4 +1,10 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+
+# Ignore PDFs, images, Word docs, temp files
+*.pdf
+*.jpeg
+*.jpg
+*.png
+*.docx
+*.tmp
+*.Rproj.user/
+
